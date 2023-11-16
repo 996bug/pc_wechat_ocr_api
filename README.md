@@ -1,10 +1,14 @@
 # pc_wechat_ocr_api
 仅可用于学习、禁止商业用途
 
-看到一篇文章
-篇名：《Python调用微信OCR识别文字和坐标》
-链接：https://mp.weixin.qq.com/s/C-MfT_AYz_uWB21EDkAYRw
-源码：https://github.com/kanadeblisst00/wechat_ocr
+看到一篇文章 
+
+篇名：《Python调用微信OCR识别文字和坐标》  
+
+链接：https://mp.weixin.qq.com/s/C-MfT_AYz_uWB21EDkAYRw  
+
+源码：https://github.com/kanadeblisst00/wechat_ocr  
+
 
 
 根据以上的信息，加入了flask做成了api
